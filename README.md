@@ -7,5 +7,5 @@ productive.
 ## Udemy Class
 
 - Kotlin for Java Developers
--- https://objectcomputing.udemy.com/course/kotlin-for-java-developers/
--- this class teaches the syntax and some of the philosophies that make up kotlin. It is geared for java developers. It has many exercise and I recommend that you code along with the class during the lectures.
+    - https://objectcomputing.udemy.com/course/kotlin-for-java-developers/
+    - this class teaches the syntax and some of the philosophies that make up kotlin. It is geared for java developers. It has many exercise and I recommend that you code along with the class during the lectures.
